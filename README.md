@@ -1,4 +1,4 @@
-- ### Marina Boldacova
+- ### Marina Boldachova
 #### Aspiring QA Test Engineer | Student | SKyPro University
 
 🌟 Passionate about Quality Assurance and Testing
