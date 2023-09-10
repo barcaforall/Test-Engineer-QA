@@ -72,8 +72,29 @@ SoapUI, Chrome DevTools
 Based on the work done, I still want to conclude that the site is ready for release, because this error is detected only on the API and is not reproduced on the UI.
 </p>
   
-  <li>🌐 <a href="Link to Project 2">SQL Final Project</a>: SQL requests.</li>
+  <li>🌐 <a href="https://github.com/barcaforall/Test-Engineer-QA/tree/main">SQL Final Project</a>: SQL requests.</li>
 </ul>
+<h2>Goals:</h2>
+<p>
+  Decode a secret message:<br>
+  <img src="https://github.com/barcaforall/Test-Engineer-QA/blob/main/IMG_7917%20(1).PNG?raw=true" alt="Marina Boldachova" width="150" height="200">
+</p>
+<h2>Types of Tests Were Used:</h2>
+<p>
+  - Requirement Testing<br>
+  - Smoke testing <br>
+  - Manual Functional Testing Using Checklists<br>
+  - Testing API<br>
+  - Acceptance Testing
+</p>
+<h2>Test Results:</h2>
+<p>
+  After testing and launching the collection, a backend error was identified. The error: if a created new event is edited only in the date field, then this edited event is not deleted. A total of 18 test cases were run and five of the 18 test cases had an edited event date, which resulted in a deletion error. In these five test cases, the edited events were not deleted.
+</p>
+  <h2>Conclusion</h2>
+  <p>
+Based on the work done, I still want to conclude that the site is ready for release, because this error is detected only on the API and is not reproduced on the UI.
+</p>
 
 <h2>Education</h2>
 
