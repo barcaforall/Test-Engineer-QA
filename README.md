@@ -38,7 +38,8 @@ SoapUI, Chrome DevTools
   <li>📊 <strong>Quality Assurance Best Practices:</strong> Knowledge of industry-standard QA methodologies</li>
 </ul>
 
-<h2>Projects</h2>
+<h1>Projects</h1>
+<h2>Project 1</h2>
 
 <ul>
   <li>🚀 <a href="https://mb9800.atlassian.net/wiki/spaces/~63eede0ffcb584bb67292f85/pages/2097169">API Testing Final Project</a>: Website testing for Educators at Skyeng University.</li>
@@ -71,6 +72,8 @@ SoapUI, Chrome DevTools
   <p>
 Based on the work done, I still want to conclude that the site is ready for release, because this error is detected only on the API and is not reproduced on the UI.
 </p>
+<br>
+<h2>Project 2</h2>
   
   <li>🌐 <a href="https://github.com/barcaforall/Test-Engineer-QA/tree/main">SQL Final Project</a>: SQL requests.</li>
 </ul>
@@ -86,16 +89,14 @@ Based on the work done, I still want to conclude that the site is ready for rele
 The development team removed half of the data during refactoring.<br>
 The remaining half was almost completely erased by business analysts while they were figuring out the requirements.<br>
 The testers received this option:<br>
-</p>
-<h2>Test Results:</h2>
-<p>
-  After testing and launching the collection, a backend error was identified. The error: if a created new event is edited only in the date field, then this edited event is not deleted. A total of 18 test cases were run and five of the 18 test cases had an edited event date, which resulted in a deletion error. In these five test cases, the edited events were not deleted.
-</p>
-  <h2>Conclusion</h2>
-  <p>
-Based on the work done, I still want to conclude that the site is ready for release, because this error is detected only on the API and is not reproduced on the UI.
+<img src="https://github.com/barcaforall/Test-Engineer-QA/blob/main/SQL/Screenshot%202023-09-10%20at%209.55.47%20AM.png?raw=true" alt="Coding Chart" width="200" height="150">
 </p>
 
+<h2>Test Results:</h2>
+<p>
+  After SQL requests were completed the following message was decoded: <strong> "ты все можешь!"</strong>
+</p>
+<br>
 <h2>Education</h2>
 
 <p>
