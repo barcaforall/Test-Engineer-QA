@@ -51,7 +51,7 @@ SoapUI, Chrome DevTools
   Test new element of the teacher's calendar - personal events:<br>
   - Adding personal event<br>
   - Editing personal event<br>
-  - Compatability of personal event and a lesson<br>
+  - Compatibility of personal event and a lesson<br>
   - deleting personal event<br>
   - API
 </p>
@@ -59,7 +59,7 @@ SoapUI, Chrome DevTools
 <p>
   - Requirement Testing<br>
   - Smoke testing <br>
-  - Manual Functional Testing Using Check Lists<br>
+  - Manual Functional Testing Using Checklists<br>
   - Testing API<br>
   - Acceptance Testing
 </p>
