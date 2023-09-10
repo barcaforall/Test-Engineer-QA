@@ -47,10 +47,10 @@ Let's build quality together! 🧪🖥️
 
 
 
-<h1 align="center">🚀 Aspiring QA Test Engineer | Student | [Your University/College] 🚀</h1>
+<h1 align="center">🚀 Aspiring QA Test Engineer | Student | SkyPro University 🚀</h1>
 
 <p align="center">
-  <img src="https://your-profile-picture-url.com" alt="Your Name" width="150" height="150">
+  <img src="https://your-profile-picture-url.com" alt="Marina Boldachova" width="150" height="150">
 </p>
 
 <p align="center">
