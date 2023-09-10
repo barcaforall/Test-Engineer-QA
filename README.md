@@ -42,6 +42,36 @@ SoapUI, Chrome DevTools
 
 <ul>
   <li>🚀 <a href="https://mb9800.atlassian.net/wiki/spaces/~63eede0ffcb584bb67292f85/pages/2097169">API Testing Final Project</a>: Website testing for Educators at Skyeng University.</li>
+  <p>
+    Email: barcaforall@gmail.com<br>
+    Passcode: Skypro123<br>
+  </p>
+  <h2>Goals:</h2>
+<p>
+  Test new element of the teacher's calendar - personal events:<br>
+  - Adding personal event<br>
+  - Editing personal event<br>
+  - Compatability of personal event and a lesson<br>
+  - deleting personal event<br>
+  - API
+</p>
+<h2>Types of Tests Were Used:</h2>
+<p>
+  - Requirement Testing<br>
+  - Smoke testing <br>
+  - Manual Functional Testing Using Check Lists<br>
+  - Testing API<br>
+  - Acceptance Testing
+</p>
+<h2>Test Results:</h2>
+<p>
+  After testing and launching the collection, a backend error was identified. The error: if a created new event is edited only in the date field, then this edited event is not deleted. A total of 18 test cases were run and five of the 18 test cases had an edited event date, which resulted in a deletion error. In these five test cases, the edited events were not deleted.
+</p>
+  <h2>Conclusion</h2>
+  <p>
+Based on the work done, I still want to conclude that the site is ready for release, because this error is detected only on the API and is not reproduced on the UI.
+</p>
+  
   <li>🌐 <a href="Link to Project 2">SQL Final Project</a>: SQL requests.</li>
 </ul>
 
