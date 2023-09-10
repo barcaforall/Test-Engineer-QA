@@ -30,10 +30,10 @@ SoapUI, Chrome DevTools
 
 <ul>
   <li>🌟 <strong>Test Automation:</strong> Proficient in <em>Postman, SoapUI, Chrome DevTools</em></li>
+  <li>🚀 <strong>Data Analysis Tools:</strong> SQL</li>
+  <li>🌐 <strong>Database Management Systems:</strong> Proficient in PostgreSQL</li>
   <li>🧐 <strong>Manual Testing:</strong> Experienced in creating and executing test cases</li>
   <li>🐞 <strong>Bug Tracking:</strong> Familiar with tools like JIRA for defect management</li>
-  <li>🌐 <strong>Version Control:</strong> Proficient in Git and GitHub</li>
-  <li>🚀 <strong>Continuous Integration:</strong> Understanding of CI/CD pipelines</li>
   <li>💻 <strong>Programming Languages:</strong> SQL</li>
   <li>📊 <strong>Quality Assurance Best Practices:</strong> Knowledge of industry-standard QA methodologies</li>
 </ul>
