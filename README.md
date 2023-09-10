@@ -41,7 +41,7 @@ SoapUI, Chrome DevTools
 <h2>Projects</h2>
 
 <ul>
-  <li>🚀 <a href="Link to Project 1">API Testing Final Project</a>: Website testing for Educators at Skyeng University.</li>
+  <li>🚀 <a href="https://mb9800.atlassian.net/wiki/spaces/~63eede0ffcb584bb67292f85/pages/2097169">API Testing Final Project</a>: Website testing for Educators at Skyeng University.</li>
   <li>🌐 <a href="Link to Project 2">SQL Final Project</a>: SQL requests.</li>
 </ul>
 
