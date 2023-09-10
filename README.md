@@ -77,15 +77,15 @@ Based on the work done, I still want to conclude that the site is ready for rele
 <h2>Goals:</h2>
 <p>
   Decode a secret message:<br>
-  <img src="https://github.com/barcaforall/Test-Engineer-QA/blob/main/IMG_7917%20(1).PNG?raw=true" alt="Marina Boldachova" width="150" height="200">
+  <img src="https://github.com/barcaforall/Test-Engineer-QA/blob/main/SQL/Screenshot%202023-09-10%20at%209.31.39%20AM.png?raw=true" alt="Secret Message" width="150" height="150">
 </p>
-<h2>Types of Tests Were Used:</h2>
+<h2>Problems:</h2>
 <p>
-  - Requirement Testing<br>
-  - Smoke testing <br>
-  - Manual Functional Testing Using Checklists<br>
-  - Testing API<br>
-  - Acceptance Testing
+  The encryption was broken, unfortunately.<br>
+
+The development team removed half of the data during refactoring.<br>
+The remaining half was almost completely erased by business analysts while they were figuring out the requirements.<br>
+The testers received this option:<br>
 </p>
 <h2>Test Results:</h2>
 <p>
