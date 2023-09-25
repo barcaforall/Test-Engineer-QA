@@ -103,7 +103,7 @@ The testers received this option:<br>
   🎓 <strong>Moscow University of Transport Engineers, Moscow, Russia</strong><br>
      Incomplete Bachelor of Science, Computer Science and Math<br>
   🎓 <strong>QA Test Engineer</strong> at <strong>Skyeng University</strong><br>
-  📅 Expected Graduation: <strong> December, 2023</strong>
+  📅 Expected Graduation: <strong> January, 2024</strong>
 </p>
 
 <h2>Additional Skills</h2>
