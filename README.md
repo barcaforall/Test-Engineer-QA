@@ -43,10 +43,7 @@ SoapUI, Chrome DevTools
 
 <ul>
   <li>🚀 <a href="https://mb9800.atlassian.net/wiki/spaces/~63eede0ffcb584bb67292f85/pages/2097169">API Testing Final Project</a>: Website testing for Educators at Skyeng University.</li>
-  <p>
-    Email: barcaforall@gmail.com<br>
-    Passcode: Skypro123<br>
-  </p>
+  
   <h2>Goals:</h2>
 <p>
   Test new element of the teacher's calendar - personal events:<br>
