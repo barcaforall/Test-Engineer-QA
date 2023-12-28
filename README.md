@@ -91,7 +91,7 @@ The testers received this option:<br>
 
 <h2>Test Results:</h2>
 <p>
-  After SQL requests were completed the following message was decoded: <strong> "ты все можешь!"</strong>
+  After SQL requests were completed the following message was decoded: <strong> "ты все можешь! (You can do it all!)"</strong>
 </p>
 <br>
 <h2>Education</h2>
